@@ -6,8 +6,8 @@ This project uses Java 17.
 
 ## How to run
 
-`cd bst/src`
-`java BinaryTreeApp`
+```cd bst/src```
+```java BinaryTreeApp```
 
 
 ## Useful material
