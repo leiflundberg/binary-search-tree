@@ -26,8 +26,6 @@ class BinaryTree {
         } else if(value > node.key) {
             node.right = insert(node.left, value);
         }
-
-
  
         return node;
 
