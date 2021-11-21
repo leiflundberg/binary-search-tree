@@ -8,7 +8,7 @@ This project uses Java 17.
 
 ```java
 cd bst/src
-java BinaryTreeApp
+javac BinaryTreeApp.java && java BinaryTreeApp
 ```
 
 
